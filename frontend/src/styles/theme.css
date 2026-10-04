@@ -1,0 +1,50 @@
+:root {
+  /* ===== PRIMARY COLORS ===== */
+  --primary: #2563EB;
+  --primary-hover: #1D4ED8;
+  --primary-light: #DBEAFE;
+
+  /* ===== SUCCESS ===== */
+  --success: #22C55E;
+  --success-light: #DCFCE7;
+
+  /* ===== DANGER ===== */
+  --danger: #EF4444;
+  --danger-light: #FEE2E2;
+
+  /* ===== WARNING ===== */
+  --warning: #F59E0B;
+  --warning-light: #FEF3C7;
+
+  /* ===== BACKGROUND ===== */
+  --background: #F8FAFC;
+  --surface: #FFFFFF;
+  --surface-hover: #F1F5F9;
+
+  /* ===== TEXT ===== */
+  --text-primary: #0F172A;
+  --text-secondary: #64748B;
+  --text-muted: #94A3B8;
+
+  /* ===== BORDER ===== */
+  --border: #E2E8F0;
+  --border-light: #F1F5F9;
+
+  /* ===== SHADOW ===== */
+  --shadow-sm: 0 2px 6px rgba(15, 23, 42, 0.05);
+  --shadow-md: 0 6px 20px rgba(15, 23, 42, 0.08);
+  --shadow-lg: 0 12px 30px rgba(15, 23, 42, 0.12);
+
+  /* ===== BORDER RADIUS ===== */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+
+  /* ===== TRANSITIONS ===== */
+  --transition: all 0.25s ease;
+
+  /* ===== FONT ===== */
+  --font-family: "Inter", "Segoe UI", sans-serif;
+  
+}
